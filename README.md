@@ -202,3 +202,4 @@ $ echo "test" > test.md
 $ git add . ; git commit -am "Add test"
 $ git push ../lotr.git/ master
 ```
+This repo has moved to [gollum/gollum](https://github.com/gollum/gollum).
